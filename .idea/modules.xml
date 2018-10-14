@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/yanghao.iml" filepath="$PROJECT_DIR$/yanghao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yanghao_domain/yanghao_domain.iml" filepath="$PROJECT_DIR$/yanghao_domain/yanghao_domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yanghao_respository/yanghao_respository.iml" filepath="$PROJECT_DIR$/yanghao_respository/yanghao_respository.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yanghao_service/yanghao_service.iml" filepath="$PROJECT_DIR$/yanghao_service/yanghao_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yanghao_util/yanghao_util.iml" filepath="$PROJECT_DIR$/yanghao_util/yanghao_util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/yanghao_web/yanghao_web.iml" filepath="$PROJECT_DIR$/yanghao_web/yanghao_web.iml" />
+    </modules>
+  </component>
+</project>

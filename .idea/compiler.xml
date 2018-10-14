@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="yanghao_domain" />
+        <module name="yanghao_respository" />
+        <module name="yanghao_service" />
+        <module name="yanghao_util" />
+        <module name="yanghao_web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="respository" target="1.8" />
+      <module name="yanghao" target="1.8" />
+      <module name="yanghao_domain" target="1.8" />
+      <module name="yanghao_respository" target="1.8" />
+      <module name="yanghao_service" target="1.8" />
+      <module name="yanghao_util" target="1.8" />
+      <module name="yanghao_web" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
